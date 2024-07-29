@@ -1,0 +1,88 @@
+2024-07-30 00:00:29 INFO  Utils:112 - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2024-07-30 00:00:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\aksh7\eclipse-workspace\OpencartV121\master.xml
+
+2024-07-30 00:00:31 INFO  TC_001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-30 00:00:31 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2024-07-30 00:00:31 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register Link.. 
+2024-07-30 00:00:31 INFO  TC_001_AccountRegistrationTest:30 - Providing customer details...
+2024-07-30 00:00:32 INFO  TC_001_AccountRegistrationTest:44 - Validating expected message..
+2024-07-30 00:00:32 INFO  TC_001_AccountRegistrationTest:49 - Test passed
+2024-07-30 00:00:32 INFO  TC_001_AccountRegistrationTest:58 - ***** Finished TC001_AccountRegistrationTest *****
+2024-07-30 00:00:34 INFO  TC_002_LoginTest:18 - **** Starting TC_002_LoginTest  ****
+2024-07-30 00:00:34 INFO  TC_002_LoginTest:25 - clicked on myaccount link on the home page..
+2024-07-30 00:00:34 INFO  TC_002_LoginTest:27 - clicked on login link under myaccount..
+2024-07-30 00:00:34 INFO  TC_002_LoginTest:31 - Entering valid email and password..
+2024-07-30 00:00:35 INFO  TC_002_LoginTest:35 - clicked on ligin button..
+2024-07-30 00:00:35 INFO  TC_002_LoginTest:49 - **** Finished TC_002_LoginTest  ****
+2024-07-30 00:00:53 INFO  Utils:112 - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2024-07-30 00:00:55 INFO  TC_001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-30 00:00:55 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2024-07-30 00:00:56 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register Link.. 
+2024-07-30 00:00:56 INFO  TC_001_AccountRegistrationTest:30 - Providing customer details...
+2024-07-30 00:00:56 INFO  TC_001_AccountRegistrationTest:44 - Validating expected message..
+2024-07-30 00:00:56 INFO  TC_001_AccountRegistrationTest:49 - Test passed
+2024-07-30 00:00:56 INFO  TC_001_AccountRegistrationTest:58 - ***** Finished TC001_AccountRegistrationTest *****
+2024-07-30 00:00:58 INFO  TC_002_LoginTest:18 - **** Starting TC_002_LoginTest  ****
+2024-07-30 00:00:58 INFO  TC_002_LoginTest:25 - clicked on myaccount link on the home page..
+2024-07-30 00:00:58 INFO  TC_002_LoginTest:27 - clicked on login link under myaccount..
+2024-07-30 00:00:58 INFO  TC_002_LoginTest:31 - Entering valid email and password..
+2024-07-30 00:00:59 INFO  TC_002_LoginTest:35 - clicked on ligin button..
+2024-07-30 00:00:59 INFO  TC_002_LoginTest:49 - **** Finished TC_002_LoginTest  ****
+2024-07-30 00:04:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\aksh7\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2024-07-30 00:04:26 INFO  TC_001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-30 00:04:26 ERROR TC_001_AccountRegistrationTest:53 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2024-07-30 00:04:26 INFO  TC_001_AccountRegistrationTest:58 - ***** Finished TC001_AccountRegistrationTest *****
+2024-07-30 00:05:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\aksh7\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2024-07-30 00:05:24 INFO  TC_001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-30 00:05:24 ERROR TC_001_AccountRegistrationTest:53 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2024-07-30 00:05:24 INFO  TC_001_AccountRegistrationTest:58 - ***** Finished TC001_AccountRegistrationTest *****
+2024-07-30 00:07:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\aksh7\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2024-07-30 00:07:38 INFO  TC_001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-30 00:07:38 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2024-07-30 00:07:39 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register Link.. 
+2024-07-30 00:07:39 INFO  TC_001_AccountRegistrationTest:30 - Providing customer details...
+2024-07-30 00:07:40 INFO  TC_001_AccountRegistrationTest:44 - Validating expected message..
+2024-07-30 00:07:40 INFO  TC_001_AccountRegistrationTest:49 - Test passed
+2024-07-30 00:07:40 INFO  TC_001_AccountRegistrationTest:58 - ***** Finished TC001_AccountRegistrationTest *****
+2024-07-30 00:07:47 INFO  TC_002_LoginTest:18 - **** Starting TC_002_LoginTest  ****
+2024-07-30 00:07:47 INFO  TC_002_LoginTest:25 - clicked on myaccount link on the home page..
+2024-07-30 00:07:47 INFO  TC_002_LoginTest:27 - clicked on login link under myaccount..
+2024-07-30 00:07:47 INFO  TC_002_LoginTest:31 - Entering valid email and password..
+2024-07-30 00:07:48 INFO  TC_002_LoginTest:35 - clicked on ligin button..
+2024-07-30 00:07:48 INFO  TC_002_LoginTest:49 - **** Finished TC_002_LoginTest  ****
+2024-07-30 00:12:03 INFO  Utils:112 - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2024-07-30 00:13:22 INFO  Utils:112 - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2024-07-30 00:13:24 INFO  TC_001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-30 00:13:24 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2024-07-30 00:13:25 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register Link.. 
+2024-07-30 00:13:25 INFO  TC_001_AccountRegistrationTest:30 - Providing customer details...
+2024-07-30 00:13:26 INFO  TC_001_AccountRegistrationTest:44 - Validating expected message..
+2024-07-30 00:13:26 INFO  TC_001_AccountRegistrationTest:49 - Test passed
+2024-07-30 00:13:26 INFO  TC_001_AccountRegistrationTest:58 - ***** Finished TC001_AccountRegistrationTest *****
+2024-07-30 00:13:27 INFO  TC_002_LoginTest:18 - **** Starting TC_002_LoginTest  ****
+2024-07-30 00:13:28 INFO  TC_002_LoginTest:25 - clicked on myaccount link on the home page..
+2024-07-30 00:13:28 INFO  TC_002_LoginTest:27 - clicked on login link under myaccount..
+2024-07-30 00:13:28 INFO  TC_002_LoginTest:31 - Entering valid email and password..
+2024-07-30 00:13:28 INFO  TC_002_LoginTest:35 - clicked on ligin button..
+2024-07-30 00:13:28 INFO  TC_002_LoginTest:49 - **** Finished TC_002_LoginTest  ****
+2024-07-30 00:22:35 INFO  Utils:112 - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2024-07-30 00:22:37 INFO  TC_001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-30 00:22:37 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2024-07-30 00:22:38 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register Link.. 
+2024-07-30 00:22:38 INFO  TC_001_AccountRegistrationTest:30 - Providing customer details...
+2024-07-30 00:22:38 INFO  TC_001_AccountRegistrationTest:44 - Validating expected message..
+2024-07-30 00:22:38 INFO  TC_001_AccountRegistrationTest:49 - Test passed
+2024-07-30 00:22:38 INFO  TC_001_AccountRegistrationTest:58 - ***** Finished TC001_AccountRegistrationTest *****
+2024-07-30 00:22:40 INFO  TC_002_LoginTest:18 - **** Starting TC_002_LoginTest  ****
+2024-07-30 00:22:40 INFO  TC_002_LoginTest:25 - clicked on myaccount link on the home page..
+2024-07-30 00:22:40 INFO  TC_002_LoginTest:27 - clicked on login link under myaccount..
+2024-07-30 00:22:40 INFO  TC_002_LoginTest:31 - Entering valid email and password..
+2024-07-30 00:22:41 INFO  TC_002_LoginTest:35 - clicked on ligin button..
+2024-07-30 00:22:41 INFO  TC_002_LoginTest:49 - **** Finished TC_002_LoginTest  ****
